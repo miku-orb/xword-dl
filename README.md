@@ -30,6 +30,7 @@ Supported outlets:
 |*Simply Daily Puzzles*|`sdp`|✔️|✔️|✔️|
 |*Simply Daily Puzzles Cryptic*|`sdpc`|✔️|✔️|✔️|
 |*Simply Daily Puzzles Quick*|`sdpq`|✔️|✔️|✔️|
+|*TECHNOPOL*|`technopol`|✔️|||
 |*Universal*|`uni`|✔️|✔️||
 |*USA Today*|`usa`|✔️|✔️||
 |*Vox*|`vox`|✔️|||
